@@ -1,5 +1,5 @@
-x = 10
-y = 3
+x = 300
+y = 500
 print(x + y)
 print(x - y)
 print(x * y)
